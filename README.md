@@ -23,5 +23,4 @@ This project aims to detect fraudulent credit card transactions using a **Random
    pip install -r requirements.txt
 4. Open and run the notebook:
 - https://colab.research.google.com/drive/1B8Av8UEPneV8Fregno5HkT4zfDhK11-S?usp=sharing
-📂 Dataset
-- Source: https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
+- 📂 Dataset Source: https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
